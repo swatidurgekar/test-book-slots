@@ -1,0 +1,13 @@
+.listOfSlot {
+  border: 1px solid black;
+  width: 9em;
+}
+.flex {
+  display: flex;
+}
+span {
+  margin: 1em;
+}
+.displaynone {
+  display: none;
+}
